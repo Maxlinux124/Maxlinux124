@@ -10,33 +10,16 @@
 
 </div>
 
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <div>
-          <h3>🌐 Max Digital Solutions</h3>
-          <p>Modern Digital Growth, Strategy & Web Design Agency</p>
-          <a href="http://rf.gd" target="_blank">
-            <img src="https://shields.io" alt="Max Digital Solutions" />
-          </a>
-        </div>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <div>
-          <h3>🛒 ClassifyXPro</h3>
-          <p>Buy Smart. Sell Fast. — Local Classified Ads Marketplace</p>
-          <a href="https://classifyxpro.com" target="_blank">
-            <img src="https://shields.io" alt="ClassifyXPro" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
----
+### 🚀 My Launched Projects
+
+| Max Digital Solutions | ClassifyXPro |
+| :--- | :--- |
+| Digital Growth & Web Agency | Local Classified Ads Marketplace |
+| 🌐 [max-digital-solutions.rf.gd](http://rf.gd) | 🌐 [classifyxpro.com](https://classifyxpro.com) |
+| 📘 [Facebook Page](https://facebook.com) | 📘 [Facebook Page](https://facebook.com) |
+
+
+
 
 ## 🕷️ About Me
 
