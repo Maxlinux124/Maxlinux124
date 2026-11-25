@@ -14,11 +14,12 @@
 
 ## 🕷️ About Me
 
-- 💻 Creative Web Developer
-- 🚀 Building **Peter Planet** — My personal AI vision
-- 🎨 Love clean UI, modern design & creative coding
-- 🧠 Exploring Python, AI & intelligent automation
-- 🌍 Turning ideas into digital experiences
+• 💻 Creative Web Developer
+• 🚀 Building Peter Planet — My personal AI vision
+• 🌐 Founder at Max Digital Solutions — Digital Growth & Web Agency
+• 🎨 Love clean UI, modern design & creative coding
+• 🧠 Exploring Python, AI & intelligent automation
+• 🌍 Turning ideas into digital experiences
 
 ## ⚡ Tech Stack
 
