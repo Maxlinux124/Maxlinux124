@@ -15,7 +15,7 @@
 | Max Digital Solutions | ClassifyXPro |
 | :--- | :--- |
 | Digital Growth & Web Agency | Local Classified Ads Marketplace |
-| 🌐 [max-digital-solutions.rf.gd](http://rf.gd) | 🌐 [classifyxpro.com](https://classifyxpro.com) |
+| 🌐 [max-digital-solutions.rf.gd](https://max-digital-solutions.rf.gd/) | 🌐 [classifyxpro.com](https://classifyxpro.com) |
 | 📘 [Facebook Page](https://facebook.com) | 📘 [Facebook Page](https://facebook.com) |
 
 
